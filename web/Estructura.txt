@@ -1,0 +1,33 @@
+--Head
+	--Title
+	--Mobile app
+	--Custome theme
+	--JS
+	--web fonts
+--Body
+	--Banner
+		--Navigation
+			--Logo y Opciones
+			--Script (Para cambiar los elementos del container)
+			--Containter con los diferentes enlaces
+	--Modal(Cuadro para hacer reservas)
+	--Welcome (Texto)
+	--Imagenes interactivas
+	--Estadisticas con barras.
+	--Servicios con emoticonos interactivas
+	--Equipo
+		--Script (Tres ventanas)
+		--Cada miembro del equipo
+	--Portfolio con pestañas de niños, vacaciones...
+	--Twitter
+	--Contacto
+	--Dirección
+	--Mapa
+		--Script (Desplegable con el google maps)
+--Footer
+		--Responsive slider (Para que los elementos sean responsive)
+		--Start smooth scrooling (Scrooll)
+		--Bar js (¿que barras?)
+		--Animaciones (comprobar que animaciones)
+		--Smooth scrooling of move up (Botón para subir arriba)
+		--Bootstrap
